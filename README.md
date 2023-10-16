@@ -1,2 +1,2 @@
 # EstructuraDeDatos
-Nombre:Sebatian Ignacio Cea Araneda
+Nombre:Sebastian Ignacio Cea Araneda
